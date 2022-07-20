@@ -1,0 +1,15 @@
+.searchBar{
+    position:relative;
+}
+
+.searchBar span {
+    position: absolute;
+    top:50%;
+    right:10px;
+    transform: translateY(-50%);
+    color:gray;
+}
+
+.searchBar input{
+    border-radius:10px
+}
